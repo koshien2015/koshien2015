@@ -8,3 +8,5 @@
 # My Crieit EXP
 [![Crieit経験値](https://ogp-vercel.vercel.app/crieit/ckoshien)](http://crieit.net/users/ckoshien)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ckoshien&count_private=true&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ckoshien&layout=compact)
