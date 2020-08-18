@@ -6,5 +6,5 @@
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/ckoshien/followers.svg)](http://qiita.com/ckoshien)
 
 # My Crieit EXP
-[![Crieit経験値](https://ogp-vercel.vercel.app/crieit/ckoshien)](http://crieit.net/user/ckoshien)
+[![Crieit経験値](https://ogp-vercel.vercel.app/crieit/ckoshien)](http://crieit.net/users/ckoshien)
 
