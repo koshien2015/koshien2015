@@ -5,4 +5,27 @@
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/ckoshien/contributions.svg)](http://qiita.com/ckoshien)
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/ckoshien/followers.svg)](http://qiita.com/ckoshien)
 
-[![Crieit経験値](https://ogp-vercel.vercel.app/crieit/ckoshien)](http://crieit.net/users/ckoshien)
+<!-- Like のバッジ -->
+  <a href="https://zenn.dev/ckoshien">
+    <img src="https://zenn-badge.herokuapp.com/s/ckoshien/likes?style=plastic" alt="ckoshien likes" />
+  </a>
+
+  <!-- Articles のバッジ -->
+  <a href="https://zenn.dev/ckoshien/articles">
+    <img src="https://zenn-badge.herokuapp.com/s/ckoshien/articles?style=plastic" alt="ckoshien articles" />
+  </a>
+
+  <!-- Followers のバッジ -->
+  <a href="https://zenn.dev/ckoshien/followers">
+    <img src="https://zenn-badge.herokuapp.com/s/ckoshien/followers?style=plastic" alt="ckoshien followers" />
+  </a>
+
+  <!-- Books のバッジ -->
+  <a href="https://zenn.dev/ckoshien/books">
+    <img src="https://zenn-badge.herokuapp.com/s/ckoshien/books?style=plastic" alt="ckoshien books" />
+  </a>
+
+  <!-- Scraps のバッジ -->
+  <a href="https://zenn.dev/ckoshien/scraps">
+    <img src="https://zenn-badge.herokuapp.com/s/ckoshien/scraps?style=plastic" alt="ckoshien scraps" />
+  </a>
