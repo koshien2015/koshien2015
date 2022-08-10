@@ -29,3 +29,19 @@
   <a href="https://zenn.dev/ckoshien/scraps">
     <img src="https://zenn.badge.nikaera.com/s/ckoshien/scraps?style=plastic" alt="ckoshien scraps" />
   </a>
+ 
+ # Works
+ ## キャップ野球情報局
+ https://cap-baseball.com
+ 
+ ![](https://cap-baseball.com/images/ogp.jpg)
+ 
+ ## CAP-SCOREBOOK(野球盤型競技専用スコアブックアプリ)
+ https://cap-scorebook.com
+ 
+ ![](https://cap-scorebook.com/ogp.jpg)
+ 
+ ## パワプロ風画面ジェネレータ
+ https://pawapro-gen.netlify.app
+ 
+ ![](https://pawapro-gen.netlify.app/ogp.jpg)
