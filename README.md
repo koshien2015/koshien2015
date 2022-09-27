@@ -34,14 +34,12 @@
  ## キャップ野球情報局
  https://cap-baseball.com
  
- ![](https://cap-baseball.com/images/ogp.jpg)
- 
  ## CAP-SCOREBOOK(野球盤型競技専用スコアブックアプリ)
  https://cap-scorebook.com
  
- ![](https://cap-scorebook.com/ogp.jpg)
+ ## ドラフトなう!
+ https://draft-now.com 
  
  ## パワプロ風画面ジェネレータ
  https://pawapro-gen.netlify.app
  
- ![](https://pawapro-gen.netlify.app/ogp.jpg)
