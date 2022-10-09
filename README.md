@@ -36,6 +36,7 @@
  
  ## CAP-SCOREBOOK(野球盤型競技専用スコアブックアプリ)
  https://cap-scorebook.com
+ ![](https://cap-scorebook.com/ogp.jpg)
  
  ## ドラフトなう!
  https://draft-now.com 
