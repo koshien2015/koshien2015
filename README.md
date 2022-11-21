@@ -30,7 +30,7 @@
     <img src="https://zenn.badge.nikaera.com/s/ckoshien/scraps?style=plastic" alt="ckoshien scraps" />
   </a>
  
- # Works
+ # Personal Works
  ## キャップ野球情報局
  https://cap-baseball.com
  
