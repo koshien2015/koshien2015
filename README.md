@@ -31,10 +31,12 @@
   </a>
  
  # Personal Works
- ## キャップ野球情報局
- PET bottle cap baseball infomation web service
+ ## キャップ野球情報局/ウィッフルボール情報局
+ PET bottle cap baseball/ wiffleball infomation web service in Japan.
  
  https://cap-baseball.com
+ https://wiffle.cap-baseball.com
+ 
  
  
  ![](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
