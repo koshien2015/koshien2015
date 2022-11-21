@@ -33,6 +33,7 @@
  # Personal Works
  ## キャップ野球情報局
  https://cap-baseball.com
+ petbottle cap baseball infomation web service
  
  ![](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
  ![](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
