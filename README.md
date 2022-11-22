@@ -34,6 +34,8 @@
  ## キャップ野球情報局/ウィッフルボール情報局
  PET bottle cap baseball/ wiffleball infomation web service in Japan.
  
+ ![](https://cap-baseball.com/images/ogp.jpg)
+ 
  https://cap-baseball.com
  
  https://wiffle.cap-baseball.com
