@@ -34,13 +34,12 @@
  ## キャップ野球情報局/ウィッフルボール情報局
  PET bottle cap baseball/ wiffleball infomation web service in Japan.
  
- ![](https://github.com/ckoshien/ckoshien/assets/17352441/b235a708-d567-453c-8a2d-840336c2c467)
+ ![](https://github.com/ckoshien/ckoshien/assets/17352441/1e93dfc1-b3d8-4294-a609-ec8042672b1a)
 
+ 
  https://cap-baseball.com
  
  https://wiffle.cap-baseball.com
- 
- 
  
  ![](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
  ![](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -57,9 +56,10 @@
  
  ## CAP-SCOREBOOK(野球盤型競技専用スコアブックアプリ)
  https://cap-scorebook.com
-![](https://github.com/ckoshien/ckoshien/assets/17352441/570e0522-8713-4c97-9489-3c4ac6a2e495)
-
  
+![](https://github.com/ckoshien/ckoshien/assets/17352441/e904fc66-3f7f-4249-95f8-d117787d0afd)
+
+
  ![](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
  ![](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
  ![](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
