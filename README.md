@@ -71,8 +71,6 @@
  ![](https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white)
  ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
  
- ## ドラフトなう!
- https://draft-now.com 
  
  ## パワプロ風画面ジェネレータ
  https://pawapro-gen.netlify.app
