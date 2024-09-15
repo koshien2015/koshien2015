@@ -1,5 +1,5 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ckoshien&count_private=true&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ckoshien&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=koshien2015&count_private=true&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=koshien2015&layout=compact)
 
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/ckoshien/posts.svg)](http://qiita.com/ckoshien)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/ckoshien/contributions.svg)](http://qiita.com/ckoshien)
